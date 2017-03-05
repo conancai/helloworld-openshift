@@ -1,0 +1,5 @@
+{
+  "name": "helloworld-openshift",
+  "version": "0.0.0",
+  "main": "app.js"
+}
